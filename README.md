@@ -7,3 +7,5 @@ The initial state may be loaded from a text file, passed in as a command line ar
 | left click | toggle cell state |
 | middle click | save current game state |
 | right click | start/stop simulation |
+| plus | speed up simulation |
+| minus | slow down simulation |
